@@ -75,4 +75,4 @@
 3. [Mux Video](https://with-mux-video.vercel.app/)
 4. [Mux](https://mux.com/)
 
-This categorized list should make it easier for users to find the resources they need based on their specific interests.
+
