@@ -1,62 +1,78 @@
-# useful-website-links
-Hello! You can find helpful websites for becoming a good developer.
+### Essential Resources for Aspiring Developers: Your Ultimate Toolkit to Success
 
-### Website links
-  1. Create a profile for GitHub [https://www.profileme.dev/]
-  2. https://github.com/viraptor/reverse-interview
-  3. https://www.cs.usfca.edu/~galles/visualization/CountingSort.html
-  4. https://www.cs.usfca.edu/~galles/visualization/RadixSort.html
-  5. https://brilliant.org/wiki/heap-sort/
-  6. https://brilliant.org/wiki/counting-sort/
-  7. https://www.toptal.com/developers/sorting-algorithms
-  8. https://visualgo.net/en
-  9. https://www.cs.usfca.edu/~galles/visualization/RedBlack.html
-  10. https://www.cs.usfca.edu/~galles/visualization/AVLtree.html
-  11. https://hugeicons.com/
-  12. https://heroicons.com/
-  13. https://unsplash.com/
-  14. https://codingheroes.io/resources/
-  15. https://app.netlify.com/
-  16. https://archive.org/
-  17. https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo
-  18. https://www.bigocheatsheet.com/
-  19. https://replit.com/
-  20. https://regex101.com/
-  21. https://www.cakeresume.com/Engineering-resume-samples
-  22. https://www.jobscan.co/resume-templates
-  23. https://app.enhancv.com/resume/new?preloaded=true
-  24. https://zerotomastery.io/community/coding-challenges/
-  25. https://www.emailjs.com/docs/rest-api/send/
-  26. https://app.logomakr.com/
-  27. https://www.coursera.org/
-  28. https://github.com/CoffeelessProgrammer/Data-Structures-and-Algorithms-TS
-  29. https://cruip.com/
-  30. https://ecomm.design/ecommerce-website-templates/
-  31. https://mdbootstrap.com/freebies/
-  32. https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price
-  33. https://chromewebstore.google.com/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj?hl=en&pli=1
-  34. https://chromewebstore.google.com/detail/email-finder-by-contactou/jjdemeiffadmmjhkbbpglgnlgeafomjo?hl=en
-  35. https://chromewebstore.google.com/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en
-  36. https://news.ycombinator.com/item?id=17902901
-  37. https://wellfound.com/jobs
-  38. https://designmodo.com/jobs/
-  39. https://weworkremotely.com/
-  40. https://remoteok.com/
-  41. https://whitetruffle.com/
-  42. https://www.ziprecruiter.in/
-  43. https://www.meetup.com/
-  44. https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/
-  45. https://www.fullstack.cafe/interview-questions/nodejs
-  46. https://github.com/learning-zone/nodejs-interview-questions
-  47. https://github.com/learning-zone/mongodb-interview-questions
-  48. https://gist.github.com/paulfranco/7436965eb26b9bb1310736f2bd6b6905
-  49. https://github.com/sudheerj/reactjs-interview-questions
-  50. http://svgicons.sparkk.fr/
-  51. https://vecta.io/nano
-  52. https://www.iconfinder.com/search?q=bill&price=free
-  53. https://bennettfeely.com/clippy/
-  54. https://linea.io/
-  55. https://unsplash.com/
-  56. https://github.com/airbnb/javascript
-  57. https://with-mux-video.vercel.app/
-  58. https://mux.com/
+### Developer Profiles and Resumes
+1. [Create a profile for GitHub](https://www.profileme.dev/)
+2. [Engineering resume samples](https://www.cakeresume.com/Engineering-resume-samples)
+3. [Resume templates on Jobscan](https://www.jobscan.co/resume-templates)
+4. [Enhancv Resume Builder](https://app.enhancv.com/resume/new?preloaded=true)
+
+### Interview Preparation
+1. [Reverse Interview](https://github.com/viraptor/reverse-interview)
+2. [ZTM Master the Coding Interview](https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo)
+3. [Top Node.js Interview Questions (Edureka)](https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/)
+4. [Node.js Interview Questions (Fullstack.cafe)](https://www.fullstack.cafe/interview-questions/nodejs)
+5. [Node.js Interview Questions (GitHub)](https://github.com/learning-zone/nodejs-interview-questions)
+6. [MongoDB Interview Questions (GitHub)](https://github.com/learning-zone/mongodb-interview-questions)
+7. [ReactJS Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
+
+### Algorithms and Data Structures
+1. [Counting Sort Visualization](https://www.cs.usfca.edu/~galles/visualization/CountingSort.html)
+2. [Radix Sort Visualization](https://www.cs.usfca.edu/~galles/visualization/RadixSort.html)
+3. [Heap Sort (Brilliant)](https://brilliant.org/wiki/heap-sort/)
+4. [Counting Sort (Brilliant)](https://brilliant.org/wiki/counting-sort/)
+5. [Sorting Algorithms (Toptal)](https://www.toptal.com/developers/sorting-algorithms)
+6. [Visualgo](https://visualgo.net/en)
+7. [Red-Black Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
+8. [AVL Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+9. [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
+10. [Data Structures and Algorithms in TypeScript](https://github.com/CoffeelessProgrammer/Data-Structures-and-Algorithms-TS)
+
+### Learning and Education
+1. [Coding Heroes Resources](https://codingheroes.io/resources/)
+2. [Coursera](https://www.coursera.org/)
+3. [Zero to Mastery Coding Challenges](https://zerotomastery.io/community/coding-challenges/)
+4. [Top Coding Courses (Edureka)](https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/)
+
+### Tools and Utilities
+1. [Replit](https://replit.com/)
+2. [Regex101](https://regex101.com/)
+3. [EmailJS API](https://www.emailjs.com/docs/rest-api/send/)
+4. [LogoMakr](https://app.logomakr.com/)
+5. [Netlify](https://app.netlify.com/)
+6. [Hunter Email Finder Extension](https://chromewebstore.google.com/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj?hl=en&pli=1)
+7. [Email Finder by ContactOut](https://chromewebstore.google.com/detail/email-finder-by-contactou/jjdemeiffadmmjhkbbpglgnlgeafomjo?hl=en)
+8. [Email Extractor](https://chromewebstore.google.com/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en)
+
+### Icons and Graphics
+1. [HugeIcons](https://hugeicons.com/)
+2. [Heroicons](https://heroicons.com/)
+3. [Unsplash](https://unsplash.com/)
+4. [SVG Icons](http://svgicons.sparkk.fr/)
+5. [Vecta Nano](https://vecta.io/nano)
+6. [IconFinder](https://www.iconfinder.com/search?q=bill&price=free)
+7. [Clippy](https://bennettfeely.com/clippy/)
+8. [Linea Icons](https://linea.io/)
+
+### Templates and UI Kits
+1. [Cruip](https://cruip.com/)
+2. [Ecommerce Website Templates](https://ecomm.design/ecommerce-website-templates/)
+3. [MDBootstrap Freebies](https://mdbootstrap.com/freebies/)
+4. [Creative Tim UI Kit](https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price)
+
+### Job Boards and Networking
+1. [Hacker News Jobs](https://news.ycombinator.com/item?id=17902901)
+2. [Wellfound Jobs](https://wellfound.com/jobs)
+3. [Designmodo Jobs](https://designmodo.com/jobs/)
+4. [We Work Remotely](https://weworkremotely.com/)
+5. [Remote OK](https://remoteok.com/)
+6. [Whitetruffle](https://whitetruffle.com/)
+7. [ZipRecruiter India](https://www.ziprecruiter.in/)
+8. [Meetup](https://www.meetup.com/)
+
+### Additional Resources
+1. [Archive.org](https://archive.org/)
+2. [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+3. [Mux Video](https://with-mux-video.vercel.app/)
+4. [Mux](https://mux.com/)
+
+This categorized list should make it easier for users to find the resources they need based on their specific interests.
