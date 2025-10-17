@@ -8,6 +8,7 @@
 
 ### Git
 - https://education.github.com/git-cheat-sheet-education.pdf
+- https://git-school.github.io/visualizing-git/#rewritten-history
 
 ### Interview Preparation
 1. [Reverse Interview](https://github.com/viraptor/reverse-interview)
