@@ -6,6 +6,9 @@
 3. [Resume templates on Jobscan](https://www.jobscan.co/resume-templates)
 4. [Enhancv Resume Builder](https://app.enhancv.com/resume/new?preloaded=true)
 
+### Git
+- https://education.github.com/git-cheat-sheet-education.pdf
+
 ### Interview Preparation
 1. [Reverse Interview](https://github.com/viraptor/reverse-interview)
 2. [ZTM Master the Coding Interview](https://github.com/aneagoie/ztm-master-the-coding-interview-ds-algo)
