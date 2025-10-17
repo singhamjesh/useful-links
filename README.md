@@ -115,6 +115,9 @@
 7. [Python venv Documentation](https://docs.python.org/3/library/venv.html)
 8. [GitHub Repository Settings Documentation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 
+### Graphic tool for online(Make graphic link)
+1. https://app.eraser.io/workspace/sZCPMf1LnDGwObOgYxb8
+
 
 
 
