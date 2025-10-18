@@ -34,7 +34,7 @@
 
 ---
 
-## 🔢 Algorithms & Data Structures
+## 👁 Algorithms & Data Structures
 > Visualize and master core computer science concepts interactively.
 
 - [Visualgo](https://visualgo.net/en) — Visualize algorithms and data structures.  
