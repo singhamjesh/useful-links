@@ -172,4 +172,7 @@
 
 ---
 
+## 🙂 Emoji DB Link
+- [Emoji db](https://emojidb.org/visualization-emojis)
+
 > ⭐ **Tip:** Bookmark this repo or star it for quick access whenever you need a development boost!
