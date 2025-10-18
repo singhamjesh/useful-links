@@ -34,9 +34,12 @@
 
 ---
 
-## 👁 Algorithms & Data Structures
+## 👁 Visualize & Data Structures
 > Visualize and master core computer science concepts interactively.
 
+- [Tiktokenizer](https://tiktokenizer.vercel.app/) - How tocken loke like
+- [Multidimational View with options](https://projector.tensorflow.org/) - How data is store in multidimation and also access to change data source
+- [Multidimational View](https://atlas.nomic.ai/data/andrewgao22/met-embedded/map) - How data is store in multidimation
 - [Visualgo](https://visualgo.net/en) — Visualize algorithms and data structures.  
 - [Sorting Algorithms (Toptal)](https://www.toptal.com/developers/sorting-algorithms) — Animated sorting examples.  
 - [Counting Sort Visualization](https://www.cs.usfca.edu/~galles/visualization/CountingSort.html)  
